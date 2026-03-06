@@ -2,7 +2,7 @@
 
 This repository contains an academic project developed as part of the **Information Systems Design** course at the Faculty of Organization and Informatics.
 
-The project focuses on analyzing and designing an information system for a manufacturing company called *Tubla d.o.o.*. The goal was to model business processes, define system components, and design the structure of a production subsystem.
+The project focuses on analyzing and designing an information system for a manufacturing company called *Tubla d.o.o.*. The goal was to model business processes, define system components, and design the structure of a production subsystem. This is a team project so I wasn't the only person doing it.
 
 ## Note
 
@@ -33,15 +33,3 @@ The project includes several stages of information system analysis and design:
 * ERA data modeling
 * Relational database design
 * System decomposition
-
-## Repository Structure
-
-docs/ – full project documentation
-diagrams/ – extracted diagrams (BPMN, ERA, decomposition diagrams)
-
-
-## Author
-
-Luka Tomečak
-Information and Business Systems
-Faculty of Organization and Informatics

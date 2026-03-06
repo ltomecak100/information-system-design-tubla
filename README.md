@@ -13,6 +13,11 @@ The goal of these projects was to analyze business processes and design a suppor
 
 ---
 
+# Note
+
+The full documentation is written in **Croatian**, as the projects were developed as part of university coursework. These are team projects meaning I wasn't the only person working on it.
+
+---
 # Project Structure
 
 ## 1. Business Process Modeling
@@ -57,23 +62,5 @@ Main elements of the project include:
 
 ---
 
-# Repository Structure
 
-business-process-modeling/ – project from the *Business Process Modeling* course
-information-system-design/ – project from the *Information Systems Design* course
 
-Each folder contains the full documentation of the corresponding project.
-
----
-
-# Note
-
-The full documentation is written in **Croatian**, as the projects were developed as part of university coursework. These are team projects meaning I wasn't the only person working on it.
-
----
-
-# Author
-
-Luka Tomečak
-Information and Business Systems
-Faculty of Organization and Informatics
